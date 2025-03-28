@@ -7,6 +7,6 @@ Suitable for many types of companies and organizations, including company intran
 
 iTribe is based on [HumHub open source community platform](https://github.com/humhub/humhub/).
 
-iTribe adds a dedicated module and theme, and includes some [CUZY.APP modules](https://www.cuzy.app/): the source code is avaialble for paid client under AGLP-3 license.
+iTribe adds a dedicated module, a dedicated theme, and includes some [CUZY.APP modules](https://www.cuzy.app/): the source code is avaialble for paid client under AGLP-3 license, according to https://www.gnu.org/licenses/agpl-3.0.html#section6 section 6 -> d.
 
 Website: https://itribe.io
